@@ -4,7 +4,7 @@
 #define SUM(a,b) (a)+(b)
 #define MUL(a,b) (a)*(b)
 
-
+// Hi
 //void print_hello(void);
 
 int main(void)
