@@ -4,13 +4,12 @@
 #define SUM(a,b) (a)+(b)
 #define MUL(a,b) (a)*(b)
 
-<<<<<<< HEAD
+
 
 //Added New Item
 
-=======
 // Hi
->>>>>>> ac8b5e671ea4acb0f7c284f42fb192a9b3f12d6f
+
 //void print_hello(void);
 
 int main(void)
